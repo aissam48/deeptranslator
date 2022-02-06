@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943199525371",
+    "project_id": "deep-translator-b81bf",
+    "storage_bucket": "deep-translator-b81bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943199525371:android:ed8506ccd0f6661140535e",
+        "android_client_info": {
+          "package_name": "com.deeptranslator.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943199525371-la2cikpdlnekdg7604lbpg4bmdfru5n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiT7sbEXaRIp_-bODp3r6Q15626yYpV7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943199525371-la2cikpdlnekdg7604lbpg4bmdfru5n1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
